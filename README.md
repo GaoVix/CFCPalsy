@@ -28,7 +28,7 @@ You can quickly experience the facial palsy face synthesis results by first usin
 
 
 - Download the pretrained weights from the [link](https://drive.google.com/drive/folders/1yZz42XhsDvYnNYpS8IAru74TniPHjQD0?usp=drive_link)
-- Place the `pretrained_models` directory under `ccfexp` (same level as `src`)
+- Place the `pretrained_models` directory under `cfcpalsy` (same level as `src`)
 - Run
 ```
 cd src
