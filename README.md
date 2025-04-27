@@ -31,7 +31,7 @@ You can quickly experience the facial palsy face synthesis results by first usin
 - Place the `pretrained_models` directory under `ccfexp` (same level as `src`)
 - Run
 ```
-cd ccfexp/src
+cd src
 bash syn.sh
 ```
 # Acknowledgement
