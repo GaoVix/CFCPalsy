@@ -29,9 +29,8 @@ lpips==0.1.4
 lmdb==1.2.1
 ftfy
 regex
-pytorch-fid==0.2.0
 einops
 mxnet
-opencv-python
+opencv
 huggingface-hub
 imageio
