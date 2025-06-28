@@ -31,6 +31,6 @@ ftfy
 regex
 einops
 mxnet
-opencv
+opencv-python
 huggingface-hub
 imageio
